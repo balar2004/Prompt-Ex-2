@@ -1,9 +1,9 @@
-# ExNo:2 Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+# Ex.No:2 Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 ## AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
-## Aim:
+Aim:
 To conduct a comprehensive assessment of prompting effectiveness, response quality, and user experience across major AI platforms including ChatGPT, Claude, Gemini, Cohere Command, and Meta LLaMA in specific use cases.
 Objectives:
 
